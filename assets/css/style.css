@@ -136,6 +136,13 @@ nav ul li a{
     width: 100%;
 }
 
+.cheeky img{
+	display: flex;
+	height: 75%;
+	width: 75%;
+	padding-left: 40px;
+}
+
 h5{
 	color: black;
 	font-size: 23px;
